@@ -1,0 +1,501 @@
+ID,Age,Gender,MaritalStatus,Education,Employment,Income,HoursWorked,Children,Health,Happiness,Stress,Sleep,Exercise,SocialSupport,LifeSatisfaction
+1,58,Male,Married,High school,Employed,28748,45,1,Excellent,Pretty happy,10,8.4,1.7,82,7
+2,20,Female,Single,Bachelor's,Student,8630,0,0,Excellent,Not too happy,26,6.9,1.3,60,4
+3,37,Male,Married,High school,Employed,15940,29,0,Excellent,Very happy,19,8.5,4.1,78,7
+4,20,Female,Single,Some college,Student,0,0,0,Poor,Very happy,16,8.5,3.8,74,8
+5,18,Male,Single,Some college,Student,10042,0,0,Excellent,Very happy,12,6.3,6.1,82,9
+6,58,Female,Single,Some college,Unemployed,17526,0,1,Excellent,Pretty happy,23,7.5,3.1,55,6
+7,34,Female,Single,Graduate,Unemployed,8935,5,1,Excellent,Not too happy,24,8.1,5.5,53,5
+8,38,Male,Divorced,Bachelor's,Unemployed,15092,0,0,Excellent,Very happy,17,7.2,4.2,86,8
+9,53,Female,Married,Bachelor's,Unemployed,2495,0,1,Excellent,Pretty happy,19,7.0,1.2,60,6
+10,60,Male,Married,Some college,Retired,26456,0,1,Good,Very happy,9,7.5,4.5,58,8
+11,43,Male,Divorced,Some college,Student,0,0,2,Fair,Pretty happy,16,8.6,0.2,50,7
+12,49,Female,Married,High school,Employed,32321,44,2,Excellent,Not too happy,25,8.2,3.4,72,7
+13,35,Female,Single,Graduate,Unemployed,8259,0,0,Good,Very happy,21,5.6,3.2,70,7
+14,41,Male,Married,Graduate,Student,1467,0,1,Good,Pretty happy,29,6.8,1.9,46,4
+15,45,Female,Widowed,Graduate,Employed,56181,45,0,Good,Very happy,14,6.6,3.9,49,7
+16,48,Male,Divorced,Bachelor's,Employed,43644,48,4,Good,Pretty happy,16,7.0,7.3,57,5
+17,42,Female,Married,Bachelor's,Employed,35669,38,0,Excellent,Very happy,22,6.3,2.0,64,7
+18,38,Male,Married,Bachelor's,Student,18525,0,1,Poor,Pretty happy,23,8.2,5.3,81,8
+19,21,Female,Married,Bachelor's,Student,9147,0,0,Excellent,Pretty happy,17,8.1,1.0,62,4
+20,37,Male,Married,Graduate,Employed,36521,33,0,Excellent,Pretty happy,18,6.9,3.1,81,9
+21,35,Female,Single,Bachelor's,Employed,41453,46,1,Good,Very happy,24,8.0,3.3,62,6
+22,37,Other,Divorced,Bachelor's,Unemployed,9605,0,0,Good,Not too happy,16,9.8,7.4,81,5
+23,61,Female,Single,High school,Employed,25675,36,1,Excellent,Very happy,13,6.7,2.7,79,8
+24,35,Female,Divorced,Bachelor's,Employed,34752,34,0,Good,Not too happy,14,7.5,1.1,59,7
+25,63,Female,Married,High school,Employed,35098,35,3,Excellent,Very happy,17,6.9,2.7,76,8
+26,25,Male,Married,High school,Employed,26357,37,3,Excellent,Very happy,17,6.7,1.5,74,9
+27,60,Male,Single,High school,Unemployed,7773,0,2,Excellent,Very happy,12,9.1,3.0,45,8
+28,27,Female,Single,Graduate,Employed,43486,40,0,Fair,Pretty happy,19,6.2,1.2,76,7
+29,38,Male,Single,High school,Employed,47172,40,1,Good,Very happy,16,7.7,2.0,74,6
+30,44,Male,Single,Bachelor's,Employed,48469,49,0,Excellent,Pretty happy,21,7.7,3.3,57,5
+31,52,Male,Married,Graduate,Employed,45766,43,1,Excellent,Very happy,23,7.7,2.5,85,6
+32,42,Female,Married,Bachelor's,Unemployed,7548,0,3,Good,Not too happy,20,6.7,2.5,52,4
+33,39,Female,Married,Bachelor's,Employed,14667,28,0,Fair,Pretty happy,17,8.1,1.6,44,7
+34,39,Male,Single,Some college,Employed,48850,42,2,Excellent,Very happy,17,7.4,1.5,49,5
+35,39,Male,Single,High school,Employed,16525,47,0,Excellent,Not too happy,25,7.3,1.4,57,4
+36,46,Female,Single,High school,Employed,32116,37,1,Good,Very happy,10,6.6,4.7,59,6
+37,40,Male,Divorced,Bachelor's,Employed,30962,33,1,Excellent,Very happy,28,9.3,5.0,65,6
+38,41,Female,Married,Some college,Employed,25927,47,1,Excellent,Very happy,21,7.1,4.1,59,6
+39,40,Male,Married,Some college,Employed,36569,41,1,Good,Pretty happy,19,6.6,0.5,64,7
+40,31,Female,Married,Graduate,Student,5333,0,1,Excellent,Pretty happy,23,9.1,1.8,63,6
+41,52,Male,Married,Some college,Employed,51404,46,1,Fair,Pretty happy,15,7.4,3.6,56,6
+42,47,Female,Married,High school,Employed,5284,31,1,Good,Pretty happy,21,6.7,2.7,68,3
+43,48,Female,Married,Some college,Student,11466,0,3,Good,Very happy,18,6.3,4.1,71,8
+44,42,Male,Divorced,Bachelor's,Employed,38152,38,1,Good,Not too happy,19,8.0,7.4,50,6
+45,43,Female,Married,Bachelor's,Student,11479,0,1,Fair,Very happy,20,7.2,2.3,89,10
+46,60,Male,Married,Some college,Employed,26291,35,4,Good,Very happy,15,7.0,2.9,76,6
+47,28,Male,Single,Some college,Employed,24958,44,2,Fair,Very happy,13,7.5,9.7,44,7
+48,40,Male,Single,Bachelor's,Unemployed,4232,0,0,Good,Pretty happy,24,7.6,2.0,81,6
+49,26,Male,Single,Bachelor's,Employed,28400,36,0,Excellent,Pretty happy,10,5.7,3.1,47,6
+50,18,Female,Married,Some college,Student,3490,0,0,Fair,Pretty happy,18,7.6,1.8,85,5
+51,24,Female,Single,Bachelor's,Employed,26115,33,0,Fair,Not too happy,25,6.8,2.7,55,1
+52,37,Female,Single,Bachelor's,Employed,40695,41,0,Good,Very happy,19,8.1,3.1,79,7
+53,58,Female,Divorced,High school,Employed,7157,18,0,Excellent,Pretty happy,23,5.4,2.2,85,8
+54,43,Female,Single,High school,Employed,21960,43,1,Excellent,Pretty happy,21,5.9,0.4,81,8
+55,63,Female,Married,Bachelor's,Retired,42019,0,2,Good,Very happy,18,7.2,3.5,65,5
+56,30,Female,Married,High school,Employed,43900,38,2,Excellent,Very happy,19,7.9,4.2,87,10
+57,30,Male,Married,Some college,Employed,34567,33,2,Excellent,Pretty happy,17,6.8,5.9,68,8
+58,36,Male,Divorced,High school,Retired,18809,0,1,Excellent,Very happy,19,6.9,7.7,63,6
+59,22,Female,Single,Some college,Employed,35624,32,0,Good,Not too happy,25,6.5,1.9,52,7
+60,37,Other,Married,High school,Employed,48427,43,0,Excellent,Pretty happy,22,6.2,0.8,55,4
+61,38,Female,Married,Graduate,Unemployed,11939,0,1,Fair,Very happy,19,7.7,3.9,60,4
+62,38,Female,Single,Graduate,Employed,38377,36,0,Good,Very happy,15,7.9,4.2,50,8
+63,36,Female,Single,Some college,Employed,42947,52,0,Good,Very happy,19,8.6,1.5,55,6
+64,64,Female,Married,Bachelor's,Student,3116,0,1,Excellent,Pretty happy,23,7.7,1.6,72,6
+65,39,Male,Married,High school,Employed,19774,38,1,Excellent,Very happy,17,7.4,5.5,66,5
+66,49,Male,Single,High school,Employed,37311,42,1,Good,Very happy,19,6.4,4.8,85,8
+67,77,Male,Divorced,Some college,Employed,34328,44,1,Good,Pretty happy,16,6.5,3.1,55,8
+68,57,Male,Married,Graduate,Employed,42371,43,2,Excellent,Very happy,17,6.4,5.6,90,7
+69,36,Female,Single,Bachelor's,Unemployed,7727,0,1,Good,Very happy,15,7.3,3.3,66,7
+70,35,Male,Single,Some college,Employed,29030,38,1,Good,Pretty happy,20,7.7,3.9,61,7
+71,55,Female,Married,Bachelor's,Employed,44890,37,1,Good,Not too happy,19,8.4,5.1,45,5
+72,49,Female,Married,Graduate,Employed,34028,37,2,Excellent,Very happy,22,8.9,1.6,62,6
+73,32,Male,Married,High school,Employed,30498,37,1,Good,Not too happy,24,8.7,6.3,57,3
+74,41,Female,Married,Bachelor's,Employed,44403,33,1,Excellent,Very happy,16,7.0,2.5,69,8
+75,38,Male,Married,Some college,Retired,27184,0,2,Good,Very happy,19,6.9,3.2,71,8
+76,34,Female,Single,Bachelor's,Employed,39032,30,0,Fair,Pretty happy,13,7.0,3.2,73,5
+77,73,Female,Single,Bachelor's,Employed,46209,42,1,Good,Very happy,15,6.5,0.9,67,7
+78,41,Female,Married,Some college,Employed,31013,45,3,Good,Very happy,17,7.7,4.4,70,6
+79,34,Female,Married,Bachelor's,Employed,23061,30,1,Excellent,Not too happy,29,7.2,0.3,60,1
+80,32,Other,Single,Bachelor's,Employed,66301,53,1,Good,Pretty happy,13,6.2,5.1,72,10
+81,35,Female,Single,Graduate,Employed,38357,31,0,Good,Very happy,12,8.7,1.8,66,7
+82,47,Female,Married,Graduate,Employed,21862,27,2,Fair,Very happy,9,7.5,1.7,75,9
+83,42,Female,Married,Bachelor's,Student,16062,0,0,Good,Pretty happy,17,7.6,0.4,49,5
+84,52,Male,Single,High school,Employed,40629,46,0,Excellent,Very happy,12,5.8,6.1,53,6
+85,37,Male,Married,Bachelor's,Unemployed,6368,0,1,Fair,Very happy,16,8.6,7.1,66,6
+86,24,Female,Single,High school,Employed,0,21,0,Good,Very happy,12,6.7,1.7,55,7
+87,36,Female,Married,Some college,Employed,35596,41,1,Good,Not too happy,25,6.3,8.0,43,5
+88,34,Male,Single,High school,Employed,24939,27,1,Good,Very happy,14,7.2,3.5,73,7
+89,39,Female,Married,Bachelor's,Employed,50966,40,1,Excellent,Pretty happy,19,6.9,5.3,36,4
+90,37,Female,Married,Some college,Employed,20959,26,0,Good,Not too happy,26,6.8,2.5,44,5
+91,18,Female,Married,Some college,Student,1629,0,0,Excellent,Not too happy,25,7.4,3.5,60,6
+92,46,Male,Single,Some college,Employed,10784,43,2,Fair,Not too happy,21,7.2,1.2,67,6
+93,62,Male,Married,Some college,Retired,22745,0,2,Excellent,Pretty happy,26,6.6,0.2,62,7
+94,32,Female,Divorced,Graduate,Employed,31994,36,1,Fair,Pretty happy,23,6.3,5.5,56,6
+95,48,Female,Married,High school,Employed,43130,54,4,Good,Pretty happy,23,5.6,3.0,68,5
+96,45,Female,Single,Some college,Employed,23591,40,2,Good,Very happy,25,5.7,7.1,65,5
+97,49,Female,Single,Some college,Student,14288,0,0,Poor,Not too happy,29,8.0,0.5,49,6
+98,61,Male,Married,Bachelor's,Retired,39583,0,1,Good,Very happy,14,7.2,3.9,63,7
+99,51,Male,Married,Graduate,Employed,26906,29,3,Good,Pretty happy,20,8.2,4.4,73,9
+100,30,Male,Single,Some college,Employed,25287,37,0,Good,Not too happy,18,5.8,1.7,62,5
+101,56,Female,Single,High school,Employed,18799,16,2,Excellent,Not too happy,20,6.8,1.3,44,5
+102,36,Female,Single,Graduate,Employed,47540,38,0,Fair,Not too happy,15,7.9,4.3,57,4
+103,31,Female,Divorced,Bachelor's,Retired,21270,0,0,Good,Very happy,12,6.0,2.3,74,9
+104,29,Male,Married,High school,Employed,21328,34,3,Excellent,Not too happy,24,6.0,1.4,34,2
+105,51,Male,Married,Some college,Employed,45831,36,2,Good,Pretty happy,21,6.4,3.0,74,6
+106,45,Male,Divorced,Bachelor's,Employed,34524,35,1,Good,Very happy,17,7.8,4.3,47,6
+107,44,Female,Single,Some college,Employed,18865,22,0,Excellent,Not too happy,16,6.0,0.3,37,5
+108,45,Male,Single,Bachelor's,Retired,15696,0,2,Fair,Pretty happy,23,7.3,2.2,65,5
+109,23,Male,Married,High school,Employed,27838,53,0,Good,Pretty happy,18,6.9,3.4,79,7
+110,30,Female,Divorced,Bachelor's,Employed,25439,38,0,Excellent,Very happy,20,8.4,3.3,63,6
+111,32,Female,Married,Bachelor's,Student,5265,0,1,Fair,Not too happy,14,6.9,4.5,86,8
+112,36,Male,Single,Some college,Unemployed,7871,0,0,Good,Very happy,15,8.5,2.0,52,9
+113,39,Male,Widowed,Graduate,Employed,19315,26,0,Excellent,Very happy,13,7.5,3.0,49,6
+114,18,Female,Single,Bachelor's,Employed,21697,32,0,Good,Very happy,14,9.4,1.4,64,7
+115,27,Female,Single,Bachelor's,Employed,24857,35,1,Good,Very happy,12,7.0,2.7,49,6
+116,55,Female,Single,Bachelor's,Employed,34329,40,1,Good,Not too happy,32,5.1,0.9,46,4
+117,18,Female,Single,Some college,Unemployed,8880,0,0,Excellent,Pretty happy,20,7.4,1.2,59,6
+118,59,Male,Married,High school,Employed,32637,50,0,Excellent,Very happy,15,7.6,3.0,52,6
+119,22,Female,Single,Bachelor's,Employed,32659,39,0,Good,Pretty happy,18,7.3,2.0,63,6
+120,58,Male,Married,High school,Employed,20085,40,3,Fair,Very happy,18,6.4,2.3,72,7
+121,37,Female,Single,Graduate,Unemployed,12037,5,1,Excellent,Very happy,11,6.6,4.8,46,7
+122,38,Male,Married,Bachelor's,Employed,40399,39,3,Excellent,Very happy,16,7.6,2.3,66,6
+123,46,Female,Married,Bachelor's,Employed,33616,48,2,Excellent,Very happy,16,8.7,4.1,55,7
+124,56,Male,Married,Bachelor's,Employed,52377,50,1,Good,Pretty happy,23,7.9,4.0,78,7
+125,36,Female,Single,Some college,Employed,18740,28,2,Good,Pretty happy,16,7.6,2.1,47,4
+126,38,Male,Married,Bachelor's,Employed,37926,35,3,Good,Very happy,23,7.7,0.9,100,8
+127,35,Male,Divorced,Some college,Retired,41806,0,5,Good,Not too happy,21,6.7,4.3,53,7
+128,39,Other,Married,Some college,Employed,27283,45,3,Fair,Not too happy,15,7.9,5.7,53,6
+129,46,Male,Married,Some college,Employed,18271,31,1,Excellent,Not too happy,17,6.2,2.8,60,10
+130,19,Male,Single,Bachelor's,Student,6121,0,0,Good,Not too happy,13,8.4,3.1,29,3
+131,32,Female,Divorced,Bachelor's,Student,12399,0,2,Fair,Pretty happy,21,9.5,1.8,72,8
+132,37,Male,Single,Bachelor's,Employed,21477,39,0,Fair,Pretty happy,19,8.2,1.3,64,7
+133,59,Female,Married,Bachelor's,Employed,42150,43,0,Good,Very happy,18,6.1,2.0,87,6
+134,46,Female,Single,Bachelor's,Employed,12954,25,0,Excellent,Pretty happy,19,6.6,1.5,69,5
+135,56,Male,Married,High school,Unemployed,10733,0,1,Excellent,Very happy,19,6.8,4.7,70,10
+136,54,Female,Married,Bachelor's,Employed,23444,35,0,Good,Very happy,19,6.1,1.8,78,8
+137,35,Female,Single,Bachelor's,Employed,42484,33,1,Fair,Pretty happy,16,5.2,1.4,63,7
+138,45,Female,Married,Bachelor's,Employed,59561,48,1,Excellent,Very happy,20,6.4,5.4,76,6
+139,28,Female,Single,Some college,Employed,37722,44,2,Good,Not too happy,27,6.4,6.7,68,5
+140,18,Other,Single,Some college,Student,1571,0,0,Good,Pretty happy,24,9.0,3.2,42,7
+141,63,Male,Married,Graduate,Employed,41266,31,1,Good,Not too happy,20,6.3,1.0,62,6
+142,25,Female,Single,High school,Retired,27829,0,1,Good,Not too happy,18,8.1,2.2,56,5
+143,18,Female,Married,Bachelor's,Student,14261,0,0,Excellent,Not too happy,28,7.4,2.3,49,4
+144,53,Male,Married,Bachelor's,Student,7976,0,1,Good,Pretty happy,24,6.0,3.8,62,3
+145,32,Male,Single,High school,Unemployed,9556,0,0,Excellent,Very happy,15,7.8,4.1,79,8
+146,56,Female,Married,Some college,Employed,29596,32,2,Good,Very happy,16,6.6,0.5,68,7
+147,48,Female,Single,Bachelor's,Employed,36405,44,0,Excellent,Very happy,17,6.7,3.3,60,7
+148,41,Male,Married,Graduate,Employed,20716,25,4,Good,Not too happy,27,7.6,4.2,59,3
+149,23,Female,Single,Bachelor's,Student,2955,0,0,Excellent,Not too happy,36,6.3,1.3,69,5
+150,32,Other,Single,Graduate,Employed,52294,56,1,Excellent,Pretty happy,18,4.9,4.4,73,6
+151,67,Male,Widowed,Graduate,Employed,79029,49,1,Good,Very happy,10,7.4,7.0,88,8
+152,42,Female,Married,High school,Employed,31948,50,0,Excellent,Pretty happy,21,5.7,6.0,66,7
+153,28,Female,Married,Bachelor's,Employed,40241,34,0,Good,Not too happy,27,6.0,2.9,60,5
+154,41,Male,Single,Bachelor's,Employed,47086,37,1,Good,Not too happy,19,8.0,2.0,24,3
+155,31,Female,Married,Bachelor's,Employed,27187,40,1,Good,Very happy,24,5.2,2.7,66,6
+156,44,Male,Married,Bachelor's,Employed,37345,32,1,Good,Very happy,14,9.0,2.1,66,10
+157,24,Female,Single,High school,Employed,17425,16,0,Good,Very happy,14,8.5,0.6,42,5
+158,41,Male,Married,Some college,Employed,26659,41,1,Good,Not too happy,24,6.6,5.7,70,5
+159,25,Female,Divorced,Bachelor's,Employed,57328,58,0,Excellent,Very happy,20,6.2,2.1,71,7
+160,27,Female,Married,Graduate,Employed,35047,31,2,Good,Pretty happy,18,7.7,4.3,71,6
+161,31,Female,Single,Graduate,Employed,43669,31,0,Excellent,Pretty happy,19,7.3,4.2,69,5
+162,36,Female,Divorced,Bachelor's,Retired,36285,0,2,Good,Very happy,16,7.0,2.0,51,6
+163,33,Male,Married,Some college,Employed,21641,51,1,Good,Very happy,22,6.5,1.3,80,6
+164,44,Male,Married,Bachelor's,Student,12401,0,2,Good,Pretty happy,10,6.2,1.8,40,3
+165,41,Female,Divorced,Bachelor's,Employed,51218,39,2,Fair,Not too happy,29,7.0,6.4,49,3
+166,52,Female,Single,Bachelor's,Employed,33793,24,1,Excellent,Very happy,28,4.9,1.0,67,5
+167,35,Male,Single,Bachelor's,Employed,37219,45,0,Excellent,Very happy,8,9.3,1.0,97,9
+168,26,Male,Single,Bachelor's,Student,718,0,0,Poor,Pretty happy,21,7.7,4.2,60,5
+169,37,Male,Single,Bachelor's,Student,1546,0,1,Excellent,Very happy,21,8.4,1.3,73,6
+170,44,Female,Divorced,Some college,Employed,31066,34,0,Good,Very happy,17,6.6,2.9,60,5
+171,18,Male,Married,Bachelor's,Unemployed,3036,0,0,Excellent,Very happy,19,7.1,6.8,68,7
+172,50,Female,Married,Graduate,Employed,50473,45,2,Excellent,Not too happy,20,5.5,1.6,36,4
+173,47,Male,Single,High school,Employed,43833,42,1,Good,Pretty happy,24,6.8,5.7,51,6
+174,51,Male,Married,Bachelor's,Unemployed,13845,0,5,Good,Very happy,13,6.3,3.3,54,7
+175,32,Male,Married,Some college,Student,9656,0,2,Excellent,Pretty happy,24,4.7,1.4,56,5
+176,23,Female,Single,Some college,Student,6287,0,0,Fair,Pretty happy,13,8.5,2.8,67,5
+177,49,Male,Divorced,Graduate,Employed,45612,42,5,Excellent,Very happy,13,7.9,3.6,64,7
+178,24,Female,Single,Some college,Employed,23597,35,0,Fair,Not too happy,16,7.5,8.5,74,4
+179,32,Female,Married,Graduate,Employed,20395,24,1,Good,Very happy,20,8.1,0.6,87,7
+180,31,Female,Single,Bachelor's,Employed,33015,37,0,Excellent,Very happy,18,7.7,2.5,50,6
+181,61,Male,Married,High school,Unemployed,21490,0,1,Good,Very happy,22,7.6,9.8,62,6
+182,35,Female,Married,High school,Employed,28688,43,1,Excellent,Very happy,12,5.7,12.0,83,7
+183,36,Male,Single,Some college,Employed,31731,45,2,Good,Pretty happy,19,6.6,6.8,61,4
+184,65,Female,Married,Graduate,Employed,48009,41,1,Good,Very happy,24,6.5,0.4,60,7
+185,34,Male,Married,Graduate,Student,9384,0,2,Excellent,Pretty happy,21,7.3,1.3,69,7
+186,41,Female,Married,Graduate,Employed,45225,47,4,Good,Very happy,14,6.9,2.8,80,7
+187,54,Male,Single,Graduate,Retired,26546,0,0,Excellent,Very happy,16,6.5,2.9,68,8
+188,22,Female,Married,Some college,Student,8506,0,0,Excellent,Very happy,20,8.0,1.0,49,6
+189,20,Female,Married,Some college,Student,7000,0,0,Good,Not too happy,18,7.4,1.1,63,7
+190,21,Female,Single,Some college,Student,7995,0,0,Good,Not too happy,14,6.8,0.8,49,5
+191,23,Female,Single,Some college,Student,4283,0,0,Good,Very happy,10,6.3,2.5,86,7
+192,47,Female,Married,Bachelor's,Employed,34404,43,3,Good,Not too happy,17,8.3,5.6,82,6
+193,48,Male,Married,Graduate,Employed,58558,45,2,Excellent,Very happy,17,6.5,2.9,79,7
+194,29,Male,Married,High school,Employed,24195,49,2,Good,Very happy,13,5.9,2.5,74,7
+195,18,Male,Single,Some college,Employed,32312,50,0,Good,Very happy,20,8.2,3.2,53,6
+196,35,Female,Married,Graduate,Employed,64858,49,2,Excellent,Very happy,9,7.6,1.5,89,9
+197,62,Male,Married,Graduate,Retired,45900,0,1,Fair,Not too happy,25,6.0,1.0,62,3
+198,46,Female,Married,High school,Unemployed,13456,0,3,Excellent,Pretty happy,30,5.7,3.6,43,4
+199,55,Female,Divorced,Graduate,Employed,30579,40,1,Fair,Not too happy,18,7.1,1.4,41,4
+200,40,Male,Divorced,Graduate,Employed,72621,45,1,Excellent,Very happy,19,7.4,2.3,67,7
+201,43,Male,Single,Bachelor's,Retired,17936,0,0,Excellent,Pretty happy,28,6.3,3.5,61,6
+202,30,Male,Single,Graduate,Unemployed,6433,0,1,Good,Very happy,18,8.3,1.0,45,6
+203,62,Male,Married,High school,Retired,29977,0,2,Excellent,Pretty happy,29,4.2,4.7,57,5
+204,28,Female,Divorced,Graduate,Employed,55713,42,2,Good,Very happy,7,7.9,1.7,57,9
+205,62,Male,Married,Bachelor's,Retired,32453,0,3,Poor,Not too happy,22,5.6,3.0,57,7
+206,35,Male,Single,Some college,Employed,28642,28,2,Fair,Pretty happy,24,7.1,1.5,72,5
+207,63,Male,Married,Some college,Employed,20139,27,2,Excellent,Very happy,19,6.1,2.6,87,6
+208,46,Male,Married,Bachelor's,Student,6148,0,1,Excellent,Not too happy,24,6.4,2.3,82,3
+209,24,Male,Single,Some college,Employed,17865,33,0,Good,Pretty happy,18,4.6,11.6,51,6
+210,27,Female,Married,Graduate,Retired,40111,0,3,Good,Pretty happy,19,7.5,5.2,61,3
+211,71,Female,Married,Graduate,Retired,38739,0,3,Good,Pretty happy,17,7.1,1.9,69,6
+212,24,Female,Single,Bachelor's,Employed,23731,34,0,Excellent,Very happy,13,7.5,1.3,76,6
+213,45,Female,Married,Bachelor's,Employed,38214,33,1,Good,Very happy,19,8.4,6.0,70,8
+214,31,Female,Widowed,High school,Employed,39090,44,1,Good,Pretty happy,25,6.6,3.5,70,7
+215,40,Female,Married,High school,Employed,9530,34,0,Good,Very happy,15,8.6,2.2,73,9
+216,36,Male,Single,High school,Employed,39824,41,1,Good,Pretty happy,22,6.4,0.4,79,5
+217,42,Female,Single,Some college,Unemployed,9314,0,0,Good,Pretty happy,14,7.5,3.2,67,5
+218,52,Female,Widowed,Bachelor's,Employed,46053,46,2,Good,Not too happy,12,8.3,2.1,50,4
+219,35,Female,Married,Some college,Employed,36003,43,1,Good,Pretty happy,17,6.7,3.5,52,7
+220,49,Male,Married,High school,Employed,35079,33,1,Good,Pretty happy,15,8.1,4.1,50,5
+221,37,Male,Divorced,Some college,Employed,24238,41,1,Good,Very happy,20,6.8,4.3,70,5
+222,43,Male,Divorced,Some college,Employed,33832,38,4,Good,Very happy,18,7.5,1.4,54,7
+223,18,Female,Married,Some college,Student,5106,0,0,Good,Very happy,18,7.3,2.7,87,7
+224,29,Male,Single,Some college,Employed,20767,33,1,Excellent,Very happy,11,7.4,6.1,59,8
+225,50,Male,Married,Some college,Employed,39217,35,1,Good,Very happy,9,9.8,1.3,88,9
+226,25,Male,Divorced,Bachelor's,Employed,27140,20,2,Good,Not too happy,19,6.8,2.1,38,4
+227,65,Male,Divorced,Bachelor's,Retired,21700,0,3,Excellent,Very happy,30,5.5,6.0,82,6
+228,21,Male,Single,Bachelor's,Student,1900,0,0,Fair,Very happy,19,7.4,0.6,75,9
+229,18,Female,Single,Graduate,Student,4612,0,0,Excellent,Not too happy,15,7.5,3.0,49,7
+230,33,Male,Married,Some college,Employed,24667,35,0,Fair,Pretty happy,17,6.8,3.2,67,8
+231,52,Male,Married,High school,Employed,17679,34,2,Excellent,Very happy,5,7.4,5.5,80,8
+232,18,Female,Single,Some college,Student,7627,0,0,Good,Very happy,14,6.4,1.6,70,8
+233,39,Male,Single,Graduate,Employed,71691,46,0,Excellent,Pretty happy,19,6.7,6.9,53,8
+234,37,Male,Married,Bachelor's,Retired,29200,0,1,Excellent,Very happy,26,7.1,3.3,47,5
+235,66,Female,Widowed,Bachelor's,Employed,43725,43,1,Good,Not too happy,26,8.3,2.9,50,5
+236,40,Female,Married,Some college,Student,0,0,0,Good,Pretty happy,23,6.2,2.5,73,7
+237,26,Male,Married,Graduate,Employed,49199,38,1,Fair,Not too happy,33,6.5,3.8,41,1
+238,18,Male,Single,Graduate,Employed,54709,43,0,Good,Not too happy,21,7.1,1.1,48,5
+239,32,Female,Married,Some college,Student,8636,0,0,Fair,Pretty happy,14,8.6,1.9,84,7
+240,39,Female,Married,Some college,Employed,35322,36,4,Good,Very happy,19,8.9,0.3,71,8
+241,18,Female,Single,Bachelor's,Student,12401,0,0,Excellent,Pretty happy,19,6.5,2.3,45,5
+242,42,Female,Married,Bachelor's,Employed,40925,32,2,Good,Not too happy,27,7.2,3.0,66,6
+243,33,Female,Single,High school,Employed,14870,43,0,Fair,Very happy,20,5.7,2.6,73,9
+244,61,Female,Married,Some college,Retired,41167,0,3,Good,Pretty happy,26,7.0,5.0,72,8
+245,35,Female,Divorced,High school,Unemployed,0,0,2,Excellent,Very happy,21,7.1,2.8,75,8
+246,33,Female,Single,High school,Unemployed,2034,0,0,Good,Very happy,3,7.0,7.7,58,7
+247,54,Male,Married,High school,Employed,35837,43,0,Good,Pretty happy,17,7.8,3.3,71,8
+248,18,Male,Single,High school,Employed,34958,55,0,Good,Not too happy,17,6.5,3.7,38,3
+249,50,Female,Married,Graduate,Retired,35602,0,3,Excellent,Very happy,22,7.1,2.3,51,6
+250,74,Male,Widowed,Graduate,Employed,54912,26,1,Excellent,Very happy,24,6.9,4.3,31,5
+251,18,Female,Single,Graduate,Employed,80897,60,0,Good,Not too happy,19,6.2,1.4,49,5
+252,38,Female,Single,Bachelor's,Employed,41086,53,0,Good,Pretty happy,12,9.4,0.9,54,6
+253,34,Male,Single,Graduate,Employed,24412,36,1,Good,Pretty happy,21,6.8,1.4,69,4
+254,67,Female,Widowed,Some college,Retired,31783,0,2,Fair,Very happy,24,7.6,3.2,77,7
+255,32,Female,Married,High school,Employed,29362,39,2,Good,Very happy,24,6.1,1.0,68,6
+256,25,Female,Single,Bachelor's,Employed,23539,34,0,Good,Not too happy,27,7.6,3.0,51,5
+257,33,Female,Married,Some college,Employed,24514,29,1,Fair,Pretty happy,21,6.1,4.4,62,6
+258,33,Male,Widowed,Bachelor's,Employed,36274,33,0,Good,Pretty happy,18,7.1,2.5,63,3
+259,32,Male,Single,Graduate,Employed,53283,35,1,Good,Very happy,14,6.0,1.9,80,9
+260,62,Female,Widowed,Bachelor's,Retired,48116,0,2,Good,Not too happy,25,8.7,4.4,36,4
+261,35,Male,Divorced,Some college,Employed,36188,46,2,Good,Not too happy,23,7.1,1.6,60,5
+262,24,Male,Married,High school,Employed,23327,49,1,Good,Pretty happy,16,6.6,0.2,73,7
+263,62,Female,Married,Bachelor's,Employed,28613,34,3,Good,Very happy,17,7.1,2.3,66,6
+264,49,Male,Married,Graduate,Employed,44662,40,5,Good,Not too happy,29,4.7,0.8,53,1
+265,37,Female,Single,High school,Employed,37594,56,2,Good,Pretty happy,11,8.4,1.4,48,6
+266,46,Female,Married,Bachelor's,Employed,19552,27,1,Good,Not too happy,34,6.2,2.0,44,4
+267,55,Male,Single,Some college,Unemployed,3295,0,2,Fair,Pretty happy,26,6.8,3.4,56,4
+268,57,Female,Single,Graduate,Employed,26520,34,0,Good,Pretty happy,14,7.1,2.1,68,7
+269,42,Male,Single,High school,Employed,29552,29,1,Poor,Very happy,19,7.0,0.8,79,8
+270,18,Male,Single,Bachelor's,Employed,39183,42,0,Excellent,Not too happy,20,7.5,1.3,61,5
+271,53,Female,Married,Some college,Unemployed,11598,0,2,Fair,Pretty happy,25,5.8,9.7,57,8
+272,44,Male,Married,High school,Employed,17505,33,1,Excellent,Not too happy,23,6.9,3.4,50,4
+273,22,Other,Single,Some college,Employed,29691,33,1,Excellent,Very happy,28,6.0,3.4,79,6
+274,21,Male,Single,Some college,Student,8919,0,0,Excellent,Pretty happy,21,8.0,4.0,77,6
+275,32,Male,Married,Some college,Employed,160,31,1,Good,Pretty happy,19,8.4,0.6,78,8
+276,59,Female,Divorced,Bachelor's,Employed,36822,39,2,Good,Very happy,14,7.9,0.9,59,7
+277,24,Male,Single,High school,Employed,23413,43,0,Good,Not too happy,16,8.9,1.1,42,5
+278,44,Male,Married,Graduate,Employed,33818,33,1,Good,Very happy,17,8.2,2.7,47,9
+279,20,Female,Single,Some college,Student,10260,0,0,Fair,Very happy,25,5.9,6.1,79,8
+280,48,Female,Single,Some college,Employed,33006,43,1,Good,Pretty happy,25,7.3,2.9,78,6
+281,27,Male,Single,Bachelor's,Employed,34749,46,1,Good,Pretty happy,28,5.3,0.5,43,4
+282,34,Male,Single,Bachelor's,Employed,43538,41,1,Excellent,Very happy,17,7.8,2.0,60,7
+283,38,Female,Married,Bachelor's,Unemployed,8463,0,1,Excellent,Very happy,23,7.2,3.6,92,8
+284,40,Male,Married,Some college,Unemployed,4241,0,3,Fair,Pretty happy,31,7.1,1.2,65,7
+285,28,Male,Single,Some college,Employed,26972,32,0,Fair,Very happy,13,7.7,1.4,71,9
+286,50,Male,Married,Bachelor's,Unemployed,0,10,1,Good,Pretty happy,17,5.9,1.5,86,8
+287,48,Male,Married,Bachelor's,Employed,52154,43,1,Good,Not too happy,22,7.0,2.0,57,5
+288,63,Female,Married,Bachelor's,Retired,32316,0,1,Good,Pretty happy,22,8.2,1.8,61,6
+289,18,Male,Single,High school,Employed,29655,42,0,Excellent,Pretty happy,18,5.9,7.1,36,5
+290,55,Female,Divorced,Graduate,Retired,36693,0,0,Fair,Not too happy,17,7.6,0.2,60,3
+291,43,Female,Single,Graduate,Student,1862,0,1,Good,Very happy,15,5.3,7.8,82,8
+292,26,Male,Married,Graduate,Employed,53816,46,2,Excellent,Not too happy,21,6.6,6.6,40,5
+293,61,Male,Married,Bachelor's,Employed,67401,55,0,Good,Pretty happy,17,7.8,1.5,60,6
+294,49,Male,Married,Bachelor's,Unemployed,139,0,0,Good,Very happy,18,6.5,3.1,89,7
+295,36,Male,Single,Graduate,Employed,34079,41,0,Excellent,Very happy,10,6.2,0.3,97,7
+296,45,Male,Single,Bachelor's,Employed,48076,48,0,Excellent,Very happy,19,7.7,3.0,59,8
+297,53,Male,Married,Some college,Employed,33168,32,1,Good,Pretty happy,25,5.4,2.9,66,8
+298,30,Male,Single,Bachelor's,Retired,37853,0,0,Fair,Pretty happy,14,7.3,2.1,60,4
+299,44,Female,Single,Some college,Employed,40791,28,2,Good,Pretty happy,24,7.4,1.1,54,4
+300,45,Male,Married,Bachelor's,Student,11549,0,4,Poor,Not too happy,17,7.6,3.1,46,5
+301,24,Male,Married,Some college,Employed,31663,44,1,Good,Very happy,15,5.6,2.3,66,6
+302,44,Female,Married,Graduate,Employed,47931,49,1,Good,Pretty happy,15,8.4,3.8,61,8
+303,26,Male,Married,Bachelor's,Employed,28176,32,0,Good,Very happy,21,6.4,3.2,59,5
+304,43,Female,Single,Bachelor's,Unemployed,7567,5,3,Excellent,Pretty happy,26,5.7,2.2,60,7
+305,35,Male,Divorced,Some college,Employed,44204,41,1,Good,Very happy,22,6.7,1.7,60,5
+306,26,Male,Divorced,Some college,Employed,28713,30,0,Good,Not too happy,16,9.1,3.2,57,6
+307,56,Female,Divorced,Bachelor's,Employed,27410,29,2,Excellent,Pretty happy,16,7.4,3.6,61,6
+308,36,Male,Married,High school,Employed,19740,32,1,Good,Pretty happy,19,7.5,1.5,65,6
+309,18,Female,Divorced,Some college,Unemployed,7040,0,0,Good,Pretty happy,31,7.2,1.9,79,5
+310,47,Female,Married,Bachelor's,Retired,32172,0,0,Excellent,Not too happy,22,4.8,5.3,60,4
+311,18,Male,Single,Graduate,Student,12913,0,1,Excellent,Very happy,17,8.3,6.0,77,5
+312,72,Male,Divorced,Bachelor's,Retired,40558,0,3,Good,Very happy,13,6.9,9.6,92,6
+313,24,Male,Single,Graduate,Employed,40000,41,0,Good,Very happy,21,7.8,3.9,54,7
+314,45,Male,Divorced,Bachelor's,Student,7656,0,5,Good,Pretty happy,11,7.3,0.9,59,7
+315,35,Male,Divorced,Bachelor's,Employed,27311,41,0,Good,Very happy,11,6.9,0.9,60,8
+316,55,Male,Divorced,Some college,Employed,32885,46,3,Fair,Pretty happy,14,7.8,2.8,45,8
+317,56,Male,Married,High school,Unemployed,9578,0,3,Good,Pretty happy,23,6.9,0.4,67,5
+318,50,Male,Married,Bachelor's,Employed,33963,24,1,Good,Very happy,13,6.2,0.5,92,9
+319,66,Female,Divorced,Some college,Retired,37933,0,0,Excellent,Pretty happy,21,6.1,1.2,55,6
+320,27,Male,Married,Some college,Unemployed,8898,0,0,Good,Not too happy,33,4.9,0.9,84,8
+321,35,Male,Divorced,Bachelor's,Employed,38611,41,1,Fair,Not too happy,21,7.6,1.9,37,3
+322,18,Female,Single,High school,Student,14133,0,0,Good,Pretty happy,19,6.4,3.2,53,5
+323,38,Female,Married,Bachelor's,Employed,62481,49,3,Good,Not too happy,28,7.0,2.2,72,4
+324,41,Male,Single,Graduate,Employed,31142,22,1,Excellent,Very happy,22,9.1,0.5,76,8
+325,27,Female,Married,Bachelor's,Employed,35336,30,0,Excellent,Very happy,19,8.1,1.5,66,7
+326,39,Female,Married,High school,Employed,31803,48,4,Excellent,Not too happy,28,6.9,6.2,50,4
+327,37,Female,Single,Bachelor's,Employed,30666,36,1,Fair,Pretty happy,13,6.7,0.7,76,8
+328,33,Female,Single,Bachelor's,Employed,36931,34,0,Good,Pretty happy,11,6.3,3.0,39,5
+329,33,Male,Divorced,Graduate,Employed,25110,27,2,Excellent,Very happy,16,8.7,1.6,59,4
+330,37,Female,Single,Bachelor's,Employed,7097,33,0,Good,Very happy,19,7.2,2.4,65,5
+331,35,Male,Married,High school,Employed,14183,31,1,Excellent,Very happy,19,8.7,2.6,86,8
+332,58,Female,Married,High school,Employed,46460,52,2,Good,Very happy,11,7.3,0.6,79,7
+333,33,Male,Married,High school,Employed,23013,34,2,Excellent,Very happy,27,6.0,1.5,66,8
+334,45,Male,Married,Some college,Employed,25533,43,0,Poor,Pretty happy,22,6.2,1.4,69,8
+335,22,Female,Single,Bachelor's,Student,13463,0,0,Good,Very happy,10,7.2,7.6,77,7
+336,34,Female,Married,Bachelor's,Employed,48777,53,0,Excellent,Very happy,13,6.6,1.3,60,8
+337,48,Male,Widowed,High school,Employed,39336,47,3,Good,Pretty happy,14,6.7,1.6,58,8
+338,31,Female,Married,Graduate,Employed,67374,44,1,Excellent,Very happy,19,8.5,3.6,86,10
+339,47,Female,Married,High school,Employed,36336,44,1,Poor,Not too happy,19,7.7,2.5,60,7
+340,50,Male,Married,Some college,Employed,61627,60,3,Good,Not too happy,30,5.2,4.0,47,7
+341,35,Male,Single,Some college,Employed,9369,45,1,Good,Not too happy,23,4.4,6.1,83,7
+342,29,Male,Married,Bachelor's,Employed,43642,35,4,Good,Pretty happy,15,7.4,0.4,56,4
+343,46,Male,Single,Some college,Employed,20272,36,0,Excellent,Pretty happy,20,6.4,4.7,64,5
+344,43,Female,Married,Bachelor's,Employed,44660,46,2,Excellent,Very happy,18,8.0,1.3,64,4
+345,44,Female,Single,Bachelor's,Unemployed,7152,0,0,Excellent,Not too happy,21,7.4,1.3,54,6
+346,18,Female,Married,Graduate,Employed,40795,36,0,Fair,Very happy,27,6.1,2.4,63,5
+347,47,Female,Married,Graduate,Employed,34694,31,1,Good,Very happy,9,7.8,6.2,64,8
+348,22,Male,Single,Some college,Student,6352,0,0,Good,Not too happy,22,5.7,3.5,58,4
+349,38,Female,Married,Some college,Employed,51376,46,2,Fair,Very happy,16,7.7,2.2,82,8
+350,34,Male,Married,Bachelor's,Employed,35977,34,2,Good,Very happy,18,6.7,1.4,77,5
+351,32,Female,Married,High school,Employed,10619,28,0,Fair,Not too happy,23,5.1,5.7,56,4
+352,40,Female,Married,Some college,Employed,40770,38,4,Excellent,Pretty happy,16,7.6,4.8,69,6
+353,42,Other,Divorced,Graduate,Employed,60788,41,2,Fair,Pretty happy,9,7.9,2.9,67,6
+354,32,Male,Married,High school,Employed,30241,38,0,Good,Very happy,25,5.8,2.6,81,6
+355,38,Male,Single,Some college,Employed,30271,31,1,Excellent,Very happy,17,6.2,2.9,97,9
+356,21,Female,Single,Bachelor's,Student,8401,0,0,Fair,Pretty happy,13,7.3,2.3,67,7
+357,24,Female,Single,Bachelor's,Student,7376,0,0,Fair,Pretty happy,18,6.9,2.3,58,6
+358,44,Male,Married,Bachelor's,Employed,24609,32,2,Good,Very happy,16,6.0,0.6,81,8
+359,29,Male,Married,Graduate,Employed,52959,38,1,Good,Pretty happy,22,7.7,2.1,62,5
+360,20,Female,Single,High school,Student,10093,0,0,Excellent,Very happy,20,7.9,1.3,71,9
+361,38,Male,Married,Some college,Employed,29779,27,1,Fair,Not too happy,30,4.3,1.2,53,4
+362,52,Male,Married,Graduate,Retired,45585,0,1,Fair,Not too happy,25,7.6,3.1,80,6
+363,27,Female,Single,Some college,Employed,31858,35,1,Fair,Pretty happy,26,7.2,5.0,70,6
+364,21,Female,Single,Some college,Unemployed,7422,0,0,Fair,Very happy,23,6.9,1.4,76,8
+365,39,Male,Married,Bachelor's,Student,12197,0,1,Good,Very happy,14,6.4,4.1,80,8
+366,46,Male,Married,Bachelor's,Employed,19736,31,1,Excellent,Not too happy,27,6.8,2.6,48,5
+367,38,Female,Married,High school,Unemployed,10385,0,1,Excellent,Very happy,20,6.4,2.8,74,7
+368,77,Male,Married,High school,Employed,15951,39,1,Poor,Not too happy,19,6.4,0.7,58,8
+369,27,Male,Single,Some college,Employed,19429,37,0,Excellent,Very happy,21,6.7,3.3,74,8
+370,37,Female,Married,Some college,Employed,25442,37,1,Excellent,Not too happy,23,5.9,0.4,61,5
+371,37,Female,Married,Bachelor's,Student,15562,0,1,Excellent,Very happy,20,6.2,0.9,77,5
+372,44,Male,Married,High school,Employed,21401,30,1,Excellent,Very happy,21,8.4,2.2,96,8
+373,42,Male,Married,Bachelor's,Employed,43705,34,4,Excellent,Very happy,6,8.3,2.1,52,5
+374,50,Female,Married,Some college,Employed,33504,41,1,Good,Pretty happy,22,6.4,1.2,63,5
+375,23,Male,Single,Bachelor's,Student,9116,0,0,Excellent,Pretty happy,28,8.0,1.4,79,6
+376,47,Male,Divorced,Bachelor's,Employed,43311,30,3,Fair,Pretty happy,10,7.2,6.7,68,7
+377,54,Male,Divorced,Bachelor's,Employed,45979,41,2,Excellent,Very happy,25,6.4,5.0,82,7
+378,39,Female,Single,Graduate,Unemployed,14625,5,1,Fair,Not too happy,22,5.8,2.2,38,3
+379,32,Female,Single,Some college,Employed,25296,37,0,Excellent,Not too happy,25,6.6,4.5,43,5
+380,31,Female,Divorced,High school,Retired,44379,0,1,Fair,Very happy,15,6.0,1.9,80,8
+381,18,Male,Single,Bachelor's,Employed,48284,38,0,Good,Pretty happy,13,7.2,1.3,46,4
+382,36,Male,Married,Some college,Employed,45973,39,0,Good,Very happy,13,8.5,7.4,52,6
+383,52,Male,Divorced,Bachelor's,Employed,32546,34,1,Good,Not too happy,25,5.7,2.7,62,5
+384,60,Male,Married,Bachelor's,Employed,33919,39,0,Excellent,Very happy,15,8.2,0.6,64,7
+385,32,Male,Married,Bachelor's,Retired,31287,0,1,Poor,Pretty happy,19,8.2,1.5,79,7
+386,33,Female,Married,High school,Employed,19825,29,0,Good,Very happy,19,6.7,2.5,72,7
+387,32,Male,Married,Graduate,Employed,36190,38,1,Good,Not too happy,15,6.9,2.1,63,8
+388,31,Male,Single,Some college,Employed,44788,28,1,Excellent,Very happy,10,8.9,2.4,55,8
+389,44,Female,Married,Bachelor's,Employed,29488,37,2,Good,Very happy,18,6.1,3.0,76,6
+390,29,Male,Married,Bachelor's,Employed,16747,45,2,Fair,Very happy,14,7.2,1.6,61,6
+391,18,Female,Single,Some college,Unemployed,5206,0,0,Excellent,Pretty happy,13,7.6,2.8,76,6
+392,34,Male,Single,Bachelor's,Employed,47116,53,1,Fair,Not too happy,23,8.3,1.7,47,5
+393,42,Female,Divorced,Some college,Employed,34991,41,2,Fair,Pretty happy,27,6.5,2.6,64,4
+394,18,Female,Single,High school,Student,7324,0,1,Poor,Pretty happy,26,6.6,6.1,60,5
+395,47,Male,Married,High school,Employed,35741,31,3,Good,Pretty happy,25,6.1,1.5,64,6
+396,26,Male,Single,Graduate,Unemployed,7941,0,1,Excellent,Pretty happy,21,7.7,4.5,41,4
+397,48,Female,Married,Bachelor's,Employed,42771,45,2,Fair,Pretty happy,19,6.8,3.5,54,6
+398,44,Male,Married,High school,Employed,48135,46,2,Excellent,Very happy,17,5.7,3.3,74,5
+399,29,Female,Single,Graduate,Employed,46673,38,0,Excellent,Not too happy,25,7.4,2.5,46,3
+400,35,Male,Married,Some college,Employed,32374,38,3,Poor,Pretty happy,16,7.3,7.0,52,7
+401,34,Female,Single,Some college,Employed,34484,40,0,Good,Very happy,16,7.0,3.3,100,9
+402,48,Female,Divorced,Graduate,Employed,25811,29,1,Excellent,Very happy,21,6.2,3.0,83,8
+403,41,Female,Single,Bachelor's,Employed,19068,36,0,Excellent,Very happy,19,5.5,0.2,49,8
+404,35,Female,Married,Some college,Student,2688,0,0,Excellent,Very happy,6,8.1,3.0,68,7
+405,34,Female,Married,Graduate,Employed,28718,32,0,Good,Very happy,16,6.9,0.3,80,7
+406,21,Female,Single,Some college,Unemployed,2470,5,0,Good,Very happy,21,9.7,0.9,57,7
+407,36,Female,Single,Bachelor's,Student,17738,0,0,Excellent,Very happy,16,7.5,3.0,82,8
+408,58,Male,Married,Some college,Retired,33695,0,2,Good,Pretty happy,30,8.5,5.1,88,5
+409,45,Female,Divorced,High school,Employed,15261,37,1,Good,Pretty happy,26,6.0,2.9,59,5
+410,52,Male,Married,High school,Employed,24840,42,1,Excellent,Very happy,24,6.5,2.2,74,5
+411,49,Male,Divorced,Bachelor's,Employed,43884,37,4,Excellent,Pretty happy,16,8.7,3.7,29,6
+412,43,Female,Divorced,High school,Employed,24678,32,1,Good,Very happy,29,7.0,1.1,55,5
+413,59,Other,Married,High school,Employed,38617,49,2,Good,Pretty happy,21,6.7,1.9,67,5
+414,38,Male,Married,Bachelor's,Employed,33232,37,1,Good,Very happy,17,8.9,4.0,73,8
+415,57,Male,Married,Bachelor's,Employed,34682,45,0,Excellent,Pretty happy,19,7.3,8.2,44,4
+416,48,Female,Single,Graduate,Unemployed,7408,0,1,Good,Very happy,16,7.3,2.5,63,8
+417,59,Male,Divorced,High school,Employed,41388,40,1,Excellent,Very happy,23,7.9,9.8,70,6
+418,34,Male,Divorced,Bachelor's,Employed,39699,41,2,Excellent,Very happy,13,8.2,1.1,49,5
+419,41,Male,Married,High school,Employed,27130,38,0,Excellent,Very happy,21,7.3,4.4,49,5
+420,31,Female,Widowed,Graduate,Employed,39319,29,0,Fair,Not too happy,23,8.0,2.3,55,4
+421,45,Female,Single,Some college,Employed,26350,50,1,Good,Pretty happy,24,7.0,2.6,62,8
+422,47,Male,Married,Bachelor's,Unemployed,9982,0,1,Excellent,Pretty happy,23,6.4,6.6,77,7
+423,29,Female,Single,Bachelor's,Employed,8639,30,1,Good,Not too happy,23,4.6,2.0,76,6
+424,56,Male,Married,Some college,Employed,33308,37,1,Fair,Pretty happy,25,5.5,0.9,86,6
+425,28,Female,Married,Some college,Employed,53882,47,1,Fair,Pretty happy,13,9.0,5.3,69,7
+426,38,Female,Single,Bachelor's,Employed,28035,33,0,Excellent,Not too happy,21,5.9,2.4,59,6
+427,59,Male,Married,Bachelor's,Employed,20060,17,1,Fair,Pretty happy,26,6.1,2.7,53,5
+428,36,Female,Married,Bachelor's,Employed,23985,39,3,Excellent,Pretty happy,14,6.0,6.2,68,7
+429,27,Male,Single,Bachelor's,Employed,14299,33,0,Good,Not too happy,18,6.5,4.8,44,4
+430,49,Male,Single,Bachelor's,Employed,58152,55,0,Excellent,Pretty happy,22,6.9,2.5,51,4
+431,47,Male,Married,Bachelor's,Employed,27167,31,4,Fair,Pretty happy,10,7.9,1.2,63,7
+432,40,Male,Divorced,Bachelor's,Employed,56713,41,2,Good,Pretty happy,26,5.7,2.4,57,7
+433,28,Female,Married,Bachelor's,Employed,46192,51,1,Fair,Pretty happy,27,5.1,4.9,75,6
+434,41,Female,Single,Bachelor's,Unemployed,7162,0,2,Fair,Very happy,14,7.0,4.0,69,6
+435,25,Female,Married,High school,Employed,26788,38,0,Good,Not too happy,23,6.1,5.0,83,6
+436,37,Male,Married,Bachelor's,Employed,9756,35,1,Poor,Not too happy,19,5.7,2.3,50,6
+437,55,Female,Married,Graduate,Employed,38208,41,1,Good,Pretty happy,23,7.9,6.0,66,6
+438,55,Female,Married,Graduate,Employed,49037,42,2,Excellent,Not too happy,27,6.7,3.7,46,5
+439,48,Female,Divorced,Some college,Employed,33923,36,0,Fair,Not too happy,22,6.6,1.8,32,4
+440,51,Female,Single,Some college,Employed,9707,28,0,Excellent,Not too happy,21,5.6,3.6,38,3
+441,59,Female,Married,Graduate,Employed,42452,31,1,Fair,Pretty happy,23,5.4,1.4,52,4
+442,41,Female,Divorced,Some college,Student,6550,0,0,Excellent,Very happy,18,7.2,2.0,42,7
+443,46,Female,Married,Bachelor's,Employed,12745,34,1,Excellent,Very happy,8,8.6,8.4,47,7
+444,43,Female,Married,Graduate,Employed,31529,46,1,Excellent,Very happy,26,5.6,2.7,67,9
+445,31,Female,Married,Bachelor's,Employed,43134,35,1,Excellent,Very happy,17,7.5,6.6,78,5
+446,25,Female,Single,Graduate,Unemployed,19149,0,1,Good,Not too happy,25,7.0,2.3,55,5
+447,48,Male,Married,Bachelor's,Employed,35443,41,1,Good,Very happy,14,6.3,2.0,78,6
+448,28,Male,Single,Graduate,Employed,27078,32,0,Good,Very happy,13,7.9,12.0,50,7
+449,36,Male,Married,Graduate,Employed,28556,30,0,Good,Pretty happy,26,6.1,1.1,93,5
+450,30,Female,Single,Bachelor's,Employed,34402,43,1,Good,Not too happy,13,7.6,1.1,49,5
+451,35,Male,Single,Some college,Employed,28114,35,2,Excellent,Very happy,14,7.1,3.6,59,6
+452,54,Male,Married,Some college,Unemployed,18505,0,2,Excellent,Very happy,16,6.7,1.7,83,9
+453,26,Male,Single,Graduate,Employed,26081,36,0,Excellent,Not too happy,23,9.9,2.0,15,4
+454,56,Female,Married,Some college,Unemployed,4913,5,0,Excellent,Pretty happy,19,7.6,6.0,67,7
+455,36,Female,Single,High school,Employed,32439,25,4,Fair,Not too happy,19,5.3,8.3,74,8
+456,57,Male,Married,Graduate,Employed,44300,37,3,Fair,Pretty happy,23,7.7,4.1,73,5
+457,60,Male,Married,Graduate,Employed,28885,32,1,Good,Very happy,14,6.6,2.2,70,7
+458,33,Male,Divorced,High school,Employed,34285,46,0,Good,Not too happy,14,7.2,5.3,44,3
+459,30,Female,Married,Some college,Student,9957,0,0,Good,Very happy,17,7.9,2.8,59,7
+460,31,Male,Single,Bachelor's,Employed,42570,29,1,Excellent,Very happy,13,7.4,2.1,72,8
+461,18,Female,Single,Bachelor's,Student,11199,0,0,Excellent,Not too happy,17,4.8,5.5,63,6
+462,26,Female,Single,Bachelor's,Employed,28696,42,0,Excellent,Very happy,13,6.5,1.5,75,5
+463,45,Female,Married,Graduate,Employed,34690,23,0,Good,Very happy,15,7.9,1.6,68,6
+464,28,Male,Single,High school,Employed,26150,49,1,Excellent,Very happy,12,8.9,1.9,91,8
+465,22,Other,Single,Some college,Unemployed,471,10,0,Good,Not too happy,31,6.4,4.8,67,5
+466,18,Male,Single,Some college,Student,9991,0,0,Good,Not too happy,19,7.9,1.9,49,3
+467,42,Male,Married,High school,Employed,14529,33,2,Excellent,Very happy,20,6.5,2.4,90,7
+468,70,Male,Divorced,Graduate,Employed,53706,28,4,Excellent,Very happy,19,6.4,1.0,63,7
+469,45,Female,Married,Some college,Employed,26304,20,1,Excellent,Very happy,18,7.1,5.3,75,6
+470,28,Male,Married,Some college,Unemployed,3474,0,0,Excellent,Very happy,22,7.7,1.7,100,7
+471,60,Male,Single,Graduate,Retired,22968,0,0,Good,Very happy,12,8.3,3.6,59,4
+472,61,Female,Married,High school,Employed,41789,37,5,Fair,Not too happy,26,7.7,0.4,57,7
+473,43,Other,Single,Bachelor's,Employed,37556,41,2,Good,Pretty happy,16,7.6,1.8,56,7
+474,38,Male,Divorced,Bachelor's,Employed,25000,40,3,Good,Not too happy,25,5.7,4.7,45,4
+475,59,Male,Married,High school,Employed,15311,33,1,Excellent,Very happy,26,8.2,2.1,45,3
+476,72,Female,Single,Bachelor's,Employed,52674,53,0,Poor,Very happy,17,7.0,0.9,71,5
+477,56,Female,Married,Graduate,Employed,63199,31,0,Good,Very happy,20,5.9,3.6,100,8
+478,43,Male,Married,High school,Employed,57853,39,0,Excellent,Pretty happy,23,6.3,6.5,51,4
+479,46,Male,Married,High school,Employed,29968,34,1,Excellent,Very happy,20,9.5,2.7,82,7
+480,34,Male,Single,High school,Employed,32669,48,0,Excellent,Very happy,22,6.7,4.4,68,6
+481,52,Male,Married,Graduate,Employed,54996,54,2,Good,Pretty happy,22,6.2,0.2,58,5
+482,38,Female,Single,Bachelor's,Employed,38730,40,0,Good,Pretty happy,28,6.4,0.5,34,4
+483,33,Female,Single,High school,Employed,16021,32,1,Excellent,Very happy,23,7.2,4.2,62,5
+484,28,Male,Married,High school,Employed,10405,27,2,Good,Pretty happy,18,6.6,1.0,56,6
+485,35,Male,Single,High school,Employed,18028,31,0,Excellent,Pretty happy,23,6.9,1.9,25,5
+486,34,Male,Divorced,Bachelor's,Student,8144,0,0,Good,Very happy,22,7.1,5.1,73,8
+487,38,Female,Married,High school,Employed,12769,33,0,Excellent,Not too happy,14,7.6,0.8,62,6
+488,44,Female,Single,Bachelor's,Employed,30108,30,2,Fair,Very happy,11,8.3,0.4,63,7
+489,36,Female,Single,High school,Employed,22435,44,2,Good,Very happy,19,5.5,1.6,64,6
+490,82,Female,Married,High school,Retired,36785,0,3,Fair,Very happy,19,7.2,3.7,61,9
+491,30,Male,Married,Bachelor's,Employed,7705,28,1,Good,Very happy,11,7.4,2.2,70,9
+492,68,Female,Married,Graduate,Employed,45342,44,1,Excellent,Not too happy,18,7.1,7.6,37,3
+493,45,Male,Divorced,Bachelor's,Employed,15561,37,3,Fair,Not too happy,31,5.9,7.3,59,3
+494,48,Female,Married,High school,Student,4740,0,0,Good,Pretty happy,24,7.3,1.1,80,6
+495,33,Male,Married,Some college,Employed,12294,33,0,Good,Very happy,14,7.1,6.8,71,8
+496,67,Male,Single,Graduate,Employed,45920,36,0,Excellent,Very happy,18,7.1,3.0,77,6
+497,55,Male,Married,Bachelor's,Student,14819,0,4,Good,Very happy,17,8.5,1.2,57,5
+498,24,Female,Single,Graduate,Employed,67992,60,0,Good,Not too happy,22,8.0,5.3,37,6
+499,18,Male,Single,Some college,Student,3741,0,0,Fair,Not too happy,24,7.8,7.2,55,5
+500,49,Male,Married,Some college,Employed,22235,40,2,Good,Very happy,13,5.9,1.6,71,7
